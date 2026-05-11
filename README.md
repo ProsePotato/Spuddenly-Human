@@ -103,7 +103,9 @@ Download the latest build from the Releases section.
 
 ## License
 
-MIT License
+Source code is licensed under the MIT License.
+
+All artwork, writing, dialogue, and game assets are proprietary and may not be reused without permission.
 
 ---
 
