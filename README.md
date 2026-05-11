@@ -91,7 +91,7 @@ Current milestone reached:
 - [ ] Audio and music
 - [ ] Save system
 - [ ] Additional rooms
-- [ ] Steam demo
+- [ ] Demo
 
 ---
 
