@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://dfsp754nga5x4"]
+
+[ext_resource type="Script" uid="uid://sx636mejlykn" path="res://potatoplaye.gd" id="1_66g74"]
+[ext_resource type="Texture2D" path="res://assets/potato.svg" id="2_sqtwx"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_sqtwx"]
+size = Vector2(34, 42)
+
+[node name="Potatoplaye" type="CharacterBody2D" unique_id=1430085812]
+script = ExtResource("1_66g74")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=961291928]
+texture = ExtResource("2_sqtwx")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1246168019]
+shape = SubResource("RectangleShape2D_sqtwx")
